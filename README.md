@@ -1,3 +1,3 @@
 # Simple statis server
 
-type node index.js to start
+type `npm i && node index.js` to start
